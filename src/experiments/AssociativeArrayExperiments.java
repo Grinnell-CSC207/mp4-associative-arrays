@@ -12,7 +12,7 @@ import structures.NullKeyException;
 /**
  * Experiments with our AssociativeArray class.
  *
- * @author Your Name Here
+ * @author Candice Lu
  * @author Samuel A. Rebelsky
  */
 public class AssociativeArrayExperiments {

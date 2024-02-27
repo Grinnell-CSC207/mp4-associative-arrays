@@ -1,8 +1,10 @@
 Associative Arrays
 ==================
 
-Starter code for a project on associative arrays.
-
-_Students should replace the contents of this file with appropriate
-contents, including author and date._
-
+Name: Candice Lu
+Date: February 27th, 2024
+Description: Mini-project 4, Starter code for a project on associative arrays.
+Resources:
+    Course Reading: Generics and parameteric polymorphism, Exceptions
+    Peers support: Alyssa Trapp, Jinny Eo
+    Online content: Stackoverflow, JavaDoc

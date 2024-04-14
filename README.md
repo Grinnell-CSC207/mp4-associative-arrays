@@ -8,3 +8,4 @@ Resources:
     Course Reading: Generics and parameteric polymorphism, Exceptions
     Peers support: Alyssa Trapp, Jinny Eo
     Online content: Stackoverflow, JavaDoc
+GitHub repo: https://github.com/lucandic/mp4-associative-arrays.git
